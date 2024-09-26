@@ -1,0 +1,50 @@
+low quality
+bad quality
+sketches
+ugly
+deformed
+disfigured
+poor details
+bad anatomy
+multiple people
+crowd
+bad anatomy
+incorrect proportions
+missing limbs
+extra limbs
+wrong perspective
+inconsistent background
+unrealistic lighting
+unnatural colors
+distorted faces
+unrealistic expressions
+multiple people
+crowd
+animals
+objects
+text
+logos
+symbols
+ugly
+deformed
+disfigured
+unnatural
+unrealistic
+inconsistent
+poorly composed
+unbalanced
+missing elements
+extra elements
+cluttered
+messy
+chaotic
+low quality
+bad quality
+blurry
+pixelated
+noisy
+grainy
+poorly lit
+overexposed
+underexposed
+distorted
